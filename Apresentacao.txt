@@ -5,3 +5,5 @@ Nome : Victor
 Nome : Vinicius 
 6 Meses:
 Estar Trabalhando na área de programação como junior
+2 Anos:
+torna-se desenvolvedor full stack com foco mais no back-end, e ser um dev senior  
